@@ -1,0 +1,5 @@
+package com.qa.drinksSpring.domain;
+
+public class Drink {
+
+}

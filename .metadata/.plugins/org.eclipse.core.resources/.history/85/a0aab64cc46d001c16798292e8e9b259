@@ -1,0 +1,5 @@
+package com.qa.drinksSpring.repo;
+
+public class DrinkRepo {
+
+}
